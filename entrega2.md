@@ -12,7 +12,7 @@
 
  * URL del repositorio en Gitlab donde se encuentra el código del prototipo que permita la evaluación de las tareas indicadas en la Entrega 1
 
- 
+ https://gitlab.labcomp.cl/vdelaros/frontend
    
  * Informe con la evaluación experta
 
