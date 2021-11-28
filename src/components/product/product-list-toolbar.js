@@ -46,6 +46,9 @@ export const ProductListToolbar = (props) => (
                   sx={{
                     height: 50,
                     width: 50,
+                    '&:hover': {
+                      border: '3px solid #FC2264'
+                    }
                   }}
                   src="https://m.media-amazon.com/images/I/81Vp6j9QCzL._SS500_.jpg"
                       >
@@ -54,6 +57,9 @@ export const ProductListToolbar = (props) => (
                   sx={{
                     height: 50,
                     width: 50,
+                    '&:hover': {
+                      border: '3px solid #FC2264'
+                    }
                   }}
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn8Fugbc-8JNXiYTHzWhtE0lIy3rVP13TaXw&usqp=CAU.jpg"
                       >

@@ -109,7 +109,7 @@ export const products = [
     createdAt: '27/03/2019',
     description: 'El entusiasmo es un indicador que ayuda a medir el grado de satisfacción, compromiso y dedicación que tienen los trabajadores con la empresa.',
     media: '/static/images/products/product_1.png',
-    title: 'Entusiamo del equipo',
+    title: 'Entusiasmo del equipo',
     totalDownloads: <AreaChart width={400} height={300} data={data} margin={{
       top: 5,
       right: 24,
