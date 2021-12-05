@@ -15,7 +15,7 @@ const items = [
     title: 'Home'
   },
   {
-    href: '/404',
+    href: '/projects',
     icon: (<Cloud fontSize="small" />),
     title: 'Proyectos'
   },
@@ -25,7 +25,7 @@ const items = [
     title: 'Estadísticas'
   },
   {
-    href: '/404',
+    href: '/members',
     icon: (<Group fontSize="small" />),
     title: 'Miembros'
   },
@@ -40,7 +40,7 @@ const items = [
     title: 'Configuración'
   },
   {
-    href: '/404',
+    href: '/help',
     icon: (<Help fontSize="small" />),
     title: 'Ayuda'
   }

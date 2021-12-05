@@ -31,9 +31,9 @@ export const Budget = (props) => (
     flexWrap: 'wrap',
     cursor: "pointer",
   }}>
-  <AddCircleOutlineIcon  fontSize="large" sx={{ color: pink[500] }}>
+  <AddCircleOutlineIcon  fontSize="large" onClick={() => window.location.href = '/form'} sx={{ color: pink[500] }}>
   </AddCircleOutlineIcon>
-  <WhiteTextTypography variant="h6">
+  <WhiteTextTypography variant="h6" onClick={() => window.location.href = '/form'}>
         Crear un proyecto
       </WhiteTextTypography>
       </div>

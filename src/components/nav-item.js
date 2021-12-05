@@ -39,10 +39,10 @@ export const NavItem = (props) => {
             width: '100%',
             paddingTop: '14px',
             '& .MuiButton-startIcon': {
-              color: active ? 'secondary.main' : '#FC2264'
+              color: active ? 'secondary.main' : '#FC2264',
             },
             '&:hover': {
-              backgroundColor: 'rgba(255,255,255, 0.08)'
+              color: active ? 'secondary.main' : 'secondary.main',
             }
           }}
         >
